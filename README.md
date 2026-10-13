@@ -1,6 +1,6 @@
 # Thermohydraulic Performance of Plain Twisted Tape Inserts with Oxide Nanofluids in Turbulent Tube Flow
 
-**Minor Project (ME1406 / ME1706) · Department of Mechanical Engineering, NIT Jamshedpur · Spring 2026**
+**Minor Project (Semester 4) · Department of Mechanical Engineering, NIT Jamshedpur**
 
 An experimental study of whether a *simple* plain twisted tape (TT) combined with a *high-conductivity nanofluid* can match the performance of a more *complex* hyperbolic-cut twisted tape (HCTT) running on plain water.
 
